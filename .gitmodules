@@ -4,3 +4,6 @@
 [submodule "wire-cell-gen-sycl"]
 	path = wire-cell-gen-sycl
 	url = https://github.com/WireCell/wire-cell-gen-sycl
+[submodule "wire-cell-gen-omp"]
+	path = wire-cell-gen-omp
+	url = https://github.com/WireCell/wire-cell-gen-omp
