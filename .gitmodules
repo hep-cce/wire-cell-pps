@@ -1,3 +1,6 @@
 [submodule "wire-cell-gen-kokkos"]
 	path = wire-cell-gen-kokkos
 	url = https://github.com/WireCell/wire-cell-gen-kokkos
+[submodule "wire-cell-gen-sycl"]
+	path = wire-cell-gen-sycl
+	url = https://github.com/WireCell/wire-cell-gen-sycl
