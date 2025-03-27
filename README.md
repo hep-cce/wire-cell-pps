@@ -1,0 +1,1 @@
+This repository contains several git submodules related to various implementations of the Liquid Argone Time Projection Chamber (LArTPC) signal simulation module of the Wire-Cell Toolkit, using portable programming models including Kokkos, SYCL, OpenMP and std::par. 
