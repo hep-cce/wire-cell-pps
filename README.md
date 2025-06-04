@@ -2,8 +2,6 @@ This repository contains several git submodules related to various implementatio
 
 To check out this repository with all the submodules, follow the steps below:
 ```
-git clone https://github.com/hep-cce/wire-cell-pps.git
-git submodule init
 git clone --recurse-submodules https://github.com/hep-cce/wire-cell-pps.git
 ```
 
